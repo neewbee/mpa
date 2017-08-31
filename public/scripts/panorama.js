@@ -1,6 +1,5 @@
 var URL = '../demo.jpg';
 
-console.log("THREE", THREE)
 
 THREE.ImageUtils.crossOrigin = '';
 var camera, scene, renderer;
