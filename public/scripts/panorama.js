@@ -1,4 +1,4 @@
-var URL = '../demo.jpg';
+var URL = '/mpa/public/scripts/demo.jpg';
 
 
 THREE.ImageUtils.crossOrigin = '';
