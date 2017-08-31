@@ -1,4 +1,4 @@
-var URL = '/mpa/public/demo.jpg';
+var URL = 'mpa/demo.jpg';
 
 
 THREE.ImageUtils.crossOrigin = '';
@@ -190,3 +190,6 @@ function update() {
 
 window.init = init.bind(window)
 window.animate = animate.bind(window)
+
+init()
+animate()
